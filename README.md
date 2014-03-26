@@ -1,4 +1,4 @@
-TTU-WiFiAutoConnect
+NCCU-WiFiAutoConnect
 ===
 
 ## unix-like (FreeBSD, Linux, OS X) 
@@ -14,3 +14,6 @@ TTU-WiFiAutoConnect
 ### For developer
 
 Fork this project for other University, just need to config your school wifi login post url & parans in `config.sh`.
+
+### Declaration
+This branch is developed from project TTU-WifiAutoConnet originated with HackGen Repo (author's GitHub id denny0223) for NCCU.
